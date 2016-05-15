@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/04/16 18:41:05.000.086,=C:\Users\Venancio_Sousa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/17 14:00:47.000.089,=C:\Users\Venancio_Sousa\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/17 14:01:03.000.859,C:\Users\Venancio_Sousa\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Chale\UntMenuPrincipal.dfm</Transaction>
+    <Transaction>2016/04/17 14:01:03.000.859,C:\Users\Venancio_Sousa\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Chale\UntMenuPrincipal.pas</Transaction>
+    <Transaction>2016/04/17 14:01:07.000.464,C:\Users\Venancio_Sousa\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Chale\Chale.dproj</Transaction>
+    <Transaction>2016/04/17 14:06:08.000.398,=C:\Chale\UntDM.pas</Transaction>
+    <Transaction>2016/04/17 14:06:13.000.551,=C:\Chale\UntPadrao1.pas</Transaction>
+    <Transaction>2016/04/26 21:32:37.000.019,=C:\Chale\Unit2.pas</Transaction>
+    <Transaction>2016/04/26 21:34:09.000.088,C:\Chale\UntConsumo.pas=C:\Chale\Unit2.pas</Transaction>
+    <Transaction>2016/04/26 21:34:09.000.088,C:\Chale\UntConsumo.dfm=C:\Chale\Unit2.dfm</Transaction>
+    <Transaction>2016/05/03 20:38:10.000.064,=C:\Chale\Unit2.pas</Transaction>
+    <Transaction>2016/05/03 20:41:52.000.242,C:\Chale\UntCadCliente.pas=C:\Chale\Unit2.pas</Transaction>
+    <Transaction>2016/05/03 20:41:52.000.242,C:\Chale\UntCadCliente.dfm=C:\Chale\Unit2.dfm</Transaction>
+    <Transaction>2016/05/04 21:54:13.000.105,=C:\Chale\Unit2.pas</Transaction>
+    <Transaction>2016/05/04 21:54:59.000.566,C:\Chale\Unit2.pas=C:\Chale\UntCadChale.pas</Transaction>
+    <Transaction>2016/05/04 21:54:59.000.566,C:\Chale\Unit2.dfm=C:\Chale\UntCadChale.dfm</Transaction>
+    <Transaction>2016/05/05 00:03:21.000.463,=C:\Chale\Unit2.pas</Transaction>
+    <Transaction>2016/05/05 00:04:10.000.253,C:\Chale\UntCadProduto.pas=C:\Chale\Unit2.pas</Transaction>
+    <Transaction>2016/05/05 00:04:10.000.253,C:\Chale\UntCadProduto.dfm=C:\Chale\Unit2.dfm</Transaction>
+    <Transaction>2016/05/05 00:23:26.000.931,=C:\Chale\Unit2.pas</Transaction>
+    <Transaction>2016/05/05 00:25:27.000.411,C:\Chale\UntReserva.pas=C:\Chale\Unit2.pas</Transaction>
+    <Transaction>2016/05/05 00:25:27.000.411,C:\Chale\UntReserva.dfm=C:\Chale\Unit2.dfm</Transaction>
+    <Transaction>2016/05/07 17:23:40.000.333,=C:\Chale\Unit2.pas</Transaction>
+    <Transaction>2016/05/07 17:26:55.000.674,C:\Chale\UntCadUsuario.dfm=C:\Chale\Unit2.dfm</Transaction>
+    <Transaction>2016/05/07 17:26:55.000.674,C:\Chale\UntCadUsuario.pas=C:\Chale\Unit2.pas</Transaction>
+    <Transaction>2016/05/09 19:27:01.000.756,=C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\Unit2.pas</Transaction>
+    <Transaction>2016/05/09 19:27:43.000.846,C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\UntCadPerfil.dfm=C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\Unit2.dfm</Transaction>
+    <Transaction>2016/05/09 19:27:43.000.846,C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\UntCadPerfil.pas=C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\Unit2.pas</Transaction>
+    <Transaction>2016/05/10 19:41:03.000.107,=C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\Unit1.pas</Transaction>
+    <Transaction>2016/05/10 19:45:09.000.573,C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\Unit1.pas=C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\UntLogin.pas</Transaction>
+    <Transaction>2016/05/10 19:45:09.000.573,C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\Unit1.dfm=C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\UntLogin.dfm</Transaction>
+    <Transaction>2016/05/11 19:56:39.000.187,=C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\Unit1.pas</Transaction>
+    <Transaction>2016/05/11 19:57:41.000.591,C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\UntPadraoRel.pas=C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\Unit1.pas</Transaction>
+    <Transaction>2016/05/11 19:57:41.000.591,C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\UntPadraoRel.dfm=C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\Unit1.dfm</Transaction>
+    <Transaction>2016/05/11 20:10:52.000.580,=C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\Unit1.pas</Transaction>
+    <Transaction>2016/05/11 20:38:46.000.661,C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\UntRelConsumo.dfm=C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\Unit1.dfm</Transaction>
+    <Transaction>2016/05/11 20:38:46.000.661,C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\UntRelConsumo.pas=C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\Unit1.pas</Transaction>
+    <Transaction>2016/05/11 20:39:12.000.905,=C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\Unit1.pas</Transaction>
+    <Transaction>2016/05/11 20:41:52.000.018,C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\UnitPesqString.pas=C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\Unit1.pas</Transaction>
+    <Transaction>2016/05/11 20:41:52.000.018,C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\UnitPesqString.dfm=C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\Unit1.dfm</Transaction>
+    <Transaction>2016/05/11 21:07:51.000.925,=C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\Unit1.pas</Transaction>
+    <Transaction>2016/05/11 21:09:46.000.467,C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\UnitPesqData.pas=C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\Unit1.pas</Transaction>
+    <Transaction>2016/05/11 21:09:46.000.467,C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\UnitPesqData.dfm=C:\Users\Venancio_Sousa\Desktop\Chale 08-05\Chale\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
